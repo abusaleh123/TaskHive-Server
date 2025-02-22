@@ -8,7 +8,7 @@ const { MongoClient, ServerApiVersion, ObjectId } = require("mongodb");
 const app = express();
 const server = http.createServer(app);
 const io = new Server(server, {
-  cors: { origin: "https://taskhive-server.onrender.com",
+  cors: { origin: "https://task-management-ee2d6.web.app",
      methods: ["GET", "POST"],
    },
 });
