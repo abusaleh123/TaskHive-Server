@@ -1,15 +1,15 @@
-# Orbitask - Backend
+# TaskHive - Backend
 
 ## Short Description
-Orbitask is a task management application that provides a robust backend API for managing tasks, users, and real-time updates. Built with Node.js and Express, it utilizes MongoDB for data storage and Socket.io for real-time task updates.
+TaskHive is a task management application that provides a robust backend API for managing tasks, users, and real-time updates. Built with Node.js and Express, it utilizes MongoDB for data storage and Socket.io for real-time task updates.
 
 ## Live Links
-- **API Base URL:** [https://task-management-server-7lv2.onrender.com/]
-- **Frontend Repository:** [https://github.com/imran21-dev/Orbitask]
-- **Live Demo:** [https://orbitask-89368.web.app/]
+- **API Base URL:** [https://taskhive-server.onrender.com/]
+- **Frontend Repository:** [https://task-management-ee2d6.web.app]
+- **Live Demo:** [https://task-management-ee2d6.firebaseapp.com]
 
 ## Dependencies
-Orbitask backend relies on the following dependencies:
+TaskHive backend relies on the following dependencies:
 
 ```json
 {
